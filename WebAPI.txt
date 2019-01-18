@@ -1,0 +1,5 @@
+<admin14>
+<arbnoteset>
+100001{最新版本序号="2"};
+</arbnoteset>
+</admin14>
